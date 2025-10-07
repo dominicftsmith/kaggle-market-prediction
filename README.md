@@ -3,3 +3,5 @@ Using XGBoost and politician trade data to compete in the Kaggle Hull Tactical M
 <br>
 ## Baseline Model Results (v1)
 https://github.com/dominicftsmith/kaggle-market-prediction/blob/main/Images/results_v1_baseline_model.png
+## Model Results (v2)
+https://github.com/dominicftsmith/kaggle-market-prediction/blob/main/Images/results_v2_tuned_model.png
